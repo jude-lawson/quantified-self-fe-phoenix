@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "https://sleepy-cove-82173.herokuapp.com/";
+	    return "https://thawing-coast-44702.herokuapp.com";
 	  }
 	};
 
